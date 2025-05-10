@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThailaJJ
 - 👀 Public school student
-- 🌱 Currently learning programming..
+- 💻 Currently learning programming..
 - 🤖 By Alura
 - 📫 santos.thailane@escola.pr.gov.br
 - 😄 Pronouns: she/her
